@@ -53,4 +53,5 @@ https://swapi.dev/
 
 
 ### Отчет о тестировании
+![reportSWAPI](https://user-images.githubusercontent.com/73638816/226876753-7ebfede2-70d1-4cb3-b7f9-7a8a2c5347cf.png)
 
