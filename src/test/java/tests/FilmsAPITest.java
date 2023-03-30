@@ -20,6 +20,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class FilmsAPITest {
     RequestSpecification requestSpec = APIDataHelper.requestSpec(Data.getBaseUrl());
     String path = Data.getBaseUrl() + Data.getFilms();
+
     int firstID = 1;
     int maxID = 6;
     int invalidCountOfFilms = maxID + 1;
