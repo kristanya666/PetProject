@@ -5,7 +5,7 @@
 
 ### Цель 
 
-Проверить функциональность Star Wars API, попрактиковаться в API тестах, попробовать запустить CI на проекте.
+Проверить функциональность Star Wars API, попрактиковаться в API тестах, а также запустить весь проект в Jenkins и сгенерировать отчет в Allure Report.
 
 ### Инструменты
 
@@ -14,6 +14,7 @@
 - JUnit5
 - Gradle (версия 7.6)
 - Rest-Assured
+- Allure Report
 - Jenkins
 
 ### Ресурсы
@@ -53,5 +54,6 @@ https://swapi.dev/
 
 
 ### Отчет о тестировании
-![reportSWAPI](https://user-images.githubusercontent.com/73638816/226876753-7ebfede2-70d1-4cb3-b7f9-7a8a2c5347cf.png)
-
+![reportSWAPI](https://github.com/kristanya666/PetProject/blob/master/src/test/resources/allure1.png)
+![reportSWAPI2](https://github.com/kristanya666/PetProject/blob/master/src/test/resources/allure2.png)
+![reportSWAPI3](https://github.com/kristanya666/PetProject/blob/master/src/test/resources/allure3.png)
